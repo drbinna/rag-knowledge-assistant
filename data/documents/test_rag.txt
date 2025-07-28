@@ -1,0 +1,11 @@
+RAG (Retrieval-Augmented Generation) is a powerful AI technique.
+
+It combines information retrieval with text generation.
+
+Key components include:
+1. Document processing
+2. Embedding generation  
+3. Vector storage
+4. Language model integration
+
+RAG provides up-to-date information without retraining models.

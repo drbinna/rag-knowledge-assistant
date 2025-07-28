@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+.venv/
+.env
+
+# Data files (don't commit large files or sensitive data)
+data/vector_storage.pkl
+data/backup/
+*.pdf
+
+# IDE and OS
+.vscode/
+.DS_Store
+.idea/
+*.swp
+*.swo
+
+# Logs and temp files
+*.log
+temp_*/
+debug_search.py
+test_file.py
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
