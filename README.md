@@ -23,7 +23,7 @@ A production-ready Retrieval-Augmented Generation (RAG) system built with real s
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/rag-knowledge-assistant.git
+git clone https://github.com/drbinna/rag-knowledge-assistant.git
 cd rag-knowledge-assistant
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
